@@ -3,8 +3,8 @@ import React from 'react';
 function HomePage() {
     return (
         <div className="App">
-            <h1>HelloWorld</h1>
-            <h1>Trust the process</h1>
+            <h1>Cube Learning</h1>
+            <h1>Begin the process</h1>
         </div>
     );
 }
